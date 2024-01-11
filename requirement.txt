@@ -1,0 +1,4 @@
+Requirements:
+Python installed on your machine
+Pygame library
+
