@@ -1,0 +1,3 @@
+Objective: The objective of this program is to create an autonomous underwater vehicle (AUV) that can navigate underwater autonomously. 
+The AUV should be able to collect data on water quality, geological makeup, and other ocean characteristics using various sensors.
+The program should allow the AUV to complete pre-planned missions without direct control from an operator.
