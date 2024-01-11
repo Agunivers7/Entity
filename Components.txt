@@ -1,0 +1,6 @@
+•Microcontroller
+•Motor Drivers
+•Motors and Wheels
+•Power Supply
+•Chassis
+•Sensors
